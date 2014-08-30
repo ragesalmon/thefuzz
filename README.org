@@ -1,0 +1,2 @@
+* The Fuzz
+The Fuzz is intended to be a simple fuzzy file search plugin which suppors helm. Development is ongoing
