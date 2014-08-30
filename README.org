@@ -1,2 +1,9 @@
 * The Fuzz
 The Fuzz is intended to be a simple fuzzy file search plugin which suppors helm. Development is ongoing
+
+** Goals
+ 1) Have the ability to run from any directory with a single command
+ 2) Cache all files and subfolders of that directory
+ 3) Do so in a reasonably fast manner
+ 4) Cache folder results for a faster search experience upon subsequent uses
+
